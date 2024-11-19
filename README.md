@@ -1,8 +1,6 @@
 # Lab-5
 **Pertemuan10-Dictionary**
 
-Berikut adalah penjelasan untuk masing-masing file:
-
 1. **delete-Dicti.py**
 
 File ini menunjukkan cara menghapus elemen dan seluruh dictionary di Python:
