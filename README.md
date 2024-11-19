@@ -32,4 +32,5 @@ File ini berfokus pada akses data dalam dictionary:
 File ini memperlihatkan cara mencetak nilai-nilai dalam dictionary:
 - `print ("dict['Name']: ", dict['Name'])`: Mencetak nilai dari kunci `'Name'`.
 - `print ("dict['Age']: ", dict['Age'])`: Mencetak nilai dari kunci `'Age'`.
+
 Script ini sederhana, hanya menunjukkan bagaimana cara membaca nilai-nilai dari dictionary dan mencetaknya.
